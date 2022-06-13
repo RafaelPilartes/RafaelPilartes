@@ -7,7 +7,7 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelPilartes&layout=compact&hide_border=true&title_color=05C7FC&text_color=05C7FC&bg_color=0d1117" />
 </div>
 
-![Contribuições](https://activity-graph.herokuapp.com/graph?username=RafaelPilartes&theme=react-dark&hide_border=true&area=true)
+![Snake animation](https://github.com/RafaelPilartes/RafaelPilartes/blob/output/github-contribution-grid-snake.svg)
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=RafaelPilartes&theme=nord&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
