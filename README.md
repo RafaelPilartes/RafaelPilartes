@@ -41,6 +41,7 @@
 ![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
   
 ### Estudando neste momento:
+![Next](https://img.shields.io/badge/-Next-0D1117?style=for-the-badge&logo=next.js&logoColor=ble&labelColor=0D1117)&nbsp;
 ![PostgresQL](https://img.shields.io/badge/-postgresql-0D1117?style=for-the-badge&logo=postgresql&logoColor=ble&labelColor=0D1117)&nbsp;
 ![GraphQL](https://img.shields.io/badge/-graphql-0D1117?style=for-the-badge&logo=graphql&logoColor=purple&labelColor=0D1117)&nbsp;
 ![Prisma](https://img.shields.io/badge/-Prisma-0D1117?style=for-the-badge&logo=Prisma&logoColor=blue&labelColor=0D1117)&nbsp;
