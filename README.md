@@ -32,7 +32,7 @@
 
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase)&nbsp;
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7)&nbsp;
-![Vercel](https://img.shields.io/badge/netlify-%000000.svg?style=flat&logo=vercel&logoColor=#white)&nbsp;
+![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=flat&logo=vercel&logoColor=#00C7B7)&nbsp;
 
 ### 🔨 Ferramentas:
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
