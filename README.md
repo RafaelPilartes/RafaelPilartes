@@ -16,10 +16,10 @@
 ### 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/rafaeldelima.pilartes/) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/rafaelpilartes/) 
-[![Gmaiil](https://img.shields.io/badge/Gmail-%23E4405F.svg?logo=Gmail&logoColor=white)](mailto:creumakuzola@gmail.com) 
+[![Gmaiil](https://img.shields.io/badge/Gmail-%23333.svg?logo=Gmail&logoColor=white)](mailto:rafaelpilartes.rlps@gmail.com) 
   
 
-### Minhas skills:
+### ✨ Minhas skills:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)&nbsp;
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)&nbsp;
@@ -29,8 +29,12 @@
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)&nbsp;
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)&nbsp;
-  
-### Ferramentas:
+
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase)&nbsp;
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7)&nbsp;
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)&nbsp;
+
+### 🔨 Ferramentas:
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
 ![Discord](https://img.shields.io/badge/-Discord-0D1117?style=for-the-badge&logo=discord&labelColor=0D1117)&nbsp;
@@ -43,7 +47,7 @@
 ![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
 ![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
   
-### Estudando neste momento:
+### 📖 Estudando neste momento:
 ![Next](https://img.shields.io/badge/-Next-0D1117?style=for-the-badge&logo=next.js&logoColor=ble&labelColor=0D1117)&nbsp;
 ![PostgresQL](https://img.shields.io/badge/-postgresql-0D1117?style=for-the-badge&logo=postgresql&logoColor=ble&labelColor=0D1117)&nbsp;
 ![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
