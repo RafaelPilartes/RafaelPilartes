@@ -13,10 +13,10 @@
   <img src="https://github-profile-trophy.vercel.app/?username=RafaelPilartes&theme=nord&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
-<div align="center">  
-<a href="https://www.facebook.com/rafaeldelima.pilartes/" target="_blank"><img src="https://img.shields.io/badge/-Facebook-%2196F3?style=for-the-badge&logo=facebook&logoColor=white"</a>
-<a href="https://www.instagram.com/rafaelpilartes/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-</div>
+### 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/rafaeldelima.pilartes/) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/rafaelpilartes/) 
+[![Gmaiil](https://img.shields.io/badge/Gmail-%23E4405F.svg?logo=Gmail&logoColor=white)](mailto:creumakuzola@gmail.com) 
   
 
 ### Minhas skills:
